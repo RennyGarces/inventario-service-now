@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Allow create for records in x_1275866_gest_o_0_pedidos, for users with roles (x_1275866_gest_o_0.Analistas, x_1275866_gest_o_0.Supervisores).</description>
+        <name>x_1275866_gest_o_0_pedidos</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 22:52:44</sys_created_on>
+        <sys_id>7b1a3981478331107a5ef3f2e16d43e5</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>x_1275866_gest_o_0_pedidos</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1275866_gest_o_0">a1012545470331107a5ef3f2e16d43c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">a1012545470331107a5ef3f2e16d43c8</sys_scope>
+        <sys_update_name>sys_security_acl_7b1a3981478331107a5ef3f2e16d43e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 23:52:04</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
