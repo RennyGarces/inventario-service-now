@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">f3672dd547c731107a5ef3f2e16d4365</sp_column>
+        <sp_widget display_value="link-button">abc50de6d702120023c84f80de61036a</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 15:46:45</sys_created_on>
+        <sys_id>b242e95147c731107a5ef3f2e16d43be</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Gestão de Inventário" source="x_1275866_gest_o_0">a1012545470331107a5ef3f2e16d43c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">a1012545470331107a5ef3f2e16d43c8</sys_scope>
+        <sys_update_name>sp_instance_b242e95147c731107a5ef3f2e16d43be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 16:09:17</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"href": {
+		"value": "https://convexnet.com.br/como-calcular-a-vida-util-dos-equipamentos-de-ti/",
+		"displayValue": "https://convexnet.com.br/como-calcular-a-vida-util-dos-equipamentos-de-ti/"
+	},
+	"button_text": {
+		"value": "leia o link primeiro",
+		"displayValue": "leia o link primeiro"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=b242e95147c731107a5ef3f2e16d43be"/>
+</record_update>

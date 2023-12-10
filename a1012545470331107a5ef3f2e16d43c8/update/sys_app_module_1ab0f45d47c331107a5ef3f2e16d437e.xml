@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Minha App">61182d4d470331107a5ef3f2e16d430b</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>Site de inventarios de TI</hint>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>inventario site</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query>/inventario</query>
+        <report/>
+        <roles>x_1275866_gest_o_0.Analistas,x_1275866_gest_o_0.admin,x_1275866_gest_o_0.Supervisores</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 12:13:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1ab0f45d47c331107a5ef3f2e16d437e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>inventario site</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Gestão de Inventário" source="x_1275866_gest_o_0">a1012545470331107a5ef3f2e16d43c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">a1012545470331107a5ef3f2e16d43c8</sys_scope>
+        <sys_update_name>sys_app_module_1ab0f45d47c331107a5ef3f2e16d437e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 12:13:57</sys_updated_on>
+        <timeline_page/>
+        <title>inventario site</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name>inventário (Portal)</window_name>
+    </sys_app_module>
+</record_update>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>commenting</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>Navegue no catálogo pelos serviços e itens que você precisa</short_description>
+        <size>md</size>
+        <sp_column display_value="2">69b46d1547c731107a5ef3f2e16d438d</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 15:53:08</sys_created_on>
+        <sys_id>5cc36dd147c731107a5ef3f2e16d43ec</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>solicitar equipamento de inventário</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1275866_gest_o_0">a1012545470331107a5ef3f2e16d43c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">a1012545470331107a5ef3f2e16d43c8</sys_scope>
+        <sys_update_name>sp_instance_link_5cc36dd147c731107a5ef3f2e16d43ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 16:00:05</sys_updated_on>
+        <title>solicitar equipamento de inventário</title>
+        <type>url</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=5cc36dd147c731107a5ef3f2e16d43ec"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">a1012545470331107a5ef3f2e16d43c8</application>
+        <file_path/>
+        <instance_id>44b3f0e01bb2355052a243f4bd4bcbce</instance_id>
+        <instance_name>dev224861</instance_name>
+        <name>sp_instance_link_5cc36dd147c731107a5ef3f2e16d43ec</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;commenting&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item/&gt;&lt;sc_category/&gt;&lt;short_description&gt;Navegue no catálogo pelos serviços e itens que você precisa&lt;/short_description&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="2"&gt;69b46d1547c731107a5ef3f2e16d438d&lt;/sp_column&gt;&lt;sp_page/&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-12-10 15:53:08&lt;/sys_created_on&gt;&lt;sys_id&gt;5cc36dd147c731107a5ef3f2e16d43ec&lt;/sys_id&gt;&lt;sys_mod_count&gt;7&lt;/sys_mod_count&gt;&lt;sys_name&gt;solicitar equipamento de inventário&lt;/sys_name&gt;&lt;sys_package display_value="Gestão de Inventário" source="x_1275866_gest_o_0"&gt;a1012545470331107a5ef3f2e16d43c8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Gestão de Inventário"&gt;a1012545470331107a5ef3f2e16d43c8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_5cc36dd147c731107a5ef3f2e16d43ec&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-12-10 16:00:05&lt;/sys_updated_on&gt;&lt;title&gt;solicitar equipamento de inventário&lt;/title&gt;&lt;type&gt;url&lt;/type&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=5cc36dd147c731107a5ef3f2e16d43ec"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1166421971</payload_hash>
+        <record_name>solicitar equipamento de inventário</record_name>
+        <reverted_from/>
+        <source>0ebecec547c331107a5ef3f2e16d4351</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 16:00:05</sys_created_on>
+        <sys_id>8255295547c731107a5ef3f2e16d435a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c547507ab0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 16:00:05</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>4a55295553c73110412e6558a4db0459</update_guid>
+        <update_guid_history>4a55295553c73110412e6558a4db0459:-1166421971,4a552955dcc73110c4e7e951dc49bc51:-343729105,23b4ad15f6c73110a6a2f8c7d12efe21:-1166421971,52742915b1c73110404e688143d07a80:-333011380,22646515b4c73110110c52e8a15c931f:-431167798,9744e9d105c7311002a81218dfb89e2f:-333011380,472425154cc731109f4402283f83b24b:-742708671,10c36dd1b5c73110b64d176a79da35ee:-940284983</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="solicitar equipamento de inventário">ef55295547c731107a5ef3f2e16d43f0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 16:00:11</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>04369cbccc214988a31674cf25f44c40</sys_id>
+        <sys_metadata>5cc36dd147c731107a5ef3f2e16d43ec</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>solicitar equipamento de inventário</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1275866_gest_o_0">a1012545470331107a5ef3f2e16d43c8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">a1012545470331107a5ef3f2e16d43c8</sys_scope>
+        <sys_scope_delete display_value="">394b6140dacf449f8fa9e9a34db129d1</sys_scope_delete>
+        <sys_update_name>sp_instance_link_5cc36dd147c731107a5ef3f2e16d43ec</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_5cc36dd147c731107a5ef3f2e16d43ec">8255295547c731107a5ef3f2e16d435a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 16:00:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

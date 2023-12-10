@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_menu">
+    <sp_instance_menu action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column/>
+        <sp_widget display_value="Single Icon Menu">5edf4c21cb21020000f8d856634c9cba</sp_widget>
+        <sys_class_name>sp_instance_menu</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 15:36:23</sys_created_on>
+        <sys_id>42df1d5d478731107a5ef3f2e16d43b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>como determinar equipamentos danificados</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1275866_gest_o_0">a1012545470331107a5ef3f2e16d43c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">a1012545470331107a5ef3f2e16d43c8</sys_scope>
+        <sys_update_name>sp_instance_menu_42df1d5d478731107a5ef3f2e16d43b2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 15:36:23</sys_updated_on>
+        <title>como determinar equipamentos danificados</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_menu>
+    <sys_translated_text action="DELETE" query="documentkey=42df1d5d478731107a5ef3f2e16d43b2"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">a1012545470331107a5ef3f2e16d43c8</application>
+        <file_path/>
+        <instance_id>44b3f0e01bb2355052a243f4bd4bcbce</instance_id>
+        <instance_name>dev224861</instance_name>
+        <name>sp_instance_menu_42df1d5d478731107a5ef3f2e16d43b2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_menu"><sp_instance_menu action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column/><sp_widget display_value="Single Icon Menu">5edf4c21cb21020000f8d856634c9cba</sp_widget><sys_class_name>sp_instance_menu</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-10 15:36:23</sys_created_on><sys_id>42df1d5d478731107a5ef3f2e16d43b2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>como determinar equipamentos danificados</sys_name><sys_package display_value="Gestão de Inventário" source="x_1275866_gest_o_0">a1012545470331107a5ef3f2e16d43c8</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">a1012545470331107a5ef3f2e16d43c8</sys_scope><sys_update_name>sp_instance_menu_42df1d5d478731107a5ef3f2e16d43b2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-10 15:36:23</sys_updated_on><title>como determinar equipamentos danificados</title><url/><widget_parameters/></sp_instance_menu><sys_translated_text action="delete_multiple" query="documentkey=42df1d5d478731107a5ef3f2e16d43b2"/></record_update>]]></payload>
+        <payload_hash>-972495954</payload_hash>
+        <record_name>como determinar equipamentos danificados</record_name>
+        <reverted_from/>
+        <source>0ebecec547c331107a5ef3f2e16d4351</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 15:36:23</sys_created_on>
+        <sys_id>f6ef111147c731107a5ef3f2e16d43e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c545f56720000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 15:36:23</sys_updated_on>
+        <type>Instance with Menu</type>
+        <update_guid>3eef1d5d0587311000dcc006ed7e765b</update_guid>
+        <update_guid_history>3eef1d5d0587311000dcc006ed7e765b:-972495954</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="como determinar equipamentos danificados">3edae1d947c731107a5ef3f2e16d43e4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 16:24:10</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_menu">sp_instance_menu</sys_db_object>
+        <sys_id>65a9b22b594b4684b2ccf1f447233a10</sys_id>
+        <sys_metadata>42df1d5d478731107a5ef3f2e16d43b2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>como determinar equipamentos danificados</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1275866_gest_o_0">a1012545470331107a5ef3f2e16d43c8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">a1012545470331107a5ef3f2e16d43c8</sys_scope>
+        <sys_scope_delete display_value="">394b6140dacf449f8fa9e9a34db129d1</sys_scope_delete>
+        <sys_update_name>sp_instance_menu_42df1d5d478731107a5ef3f2e16d43b2</sys_update_name>
+        <sys_update_version display_value="sp_instance_menu_42df1d5d478731107a5ef3f2e16d43b2">f6ef111147c731107a5ef3f2e16d43e5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 16:24:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

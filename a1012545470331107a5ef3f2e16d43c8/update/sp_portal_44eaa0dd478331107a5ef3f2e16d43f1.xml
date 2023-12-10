@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="INSERT_OR_UPDATE">
+        <css_variables>$brand-primary:#1F8476;
+$body-bg:#ffffff;
+$state-success-text:#1e4335;
+$sp-homepage-bg:#fff;
+$sp-navbar-divider-color:#bfbfbf;
+$text-color:#2e2e2e;
+$sp-logo-margin-y:.6rem;
+$navbar-inverse-link-hover-color:#ffffff;
+$panel-bg:#fff;
+$brand-success:#36d7bd;
+$navbar-inverse-bg:#808080;
+$brand-warning:#DFD139;
+$brand-danger:#C83C36;
+$sp-tagline-color:#ffffff;
+$navbar-inverse-link-color:#f6fafb;
+$brand-info:#6ABECF;
+$link-color:#1F8476;
+$sp-logo-margin-x:11px;
+$btn-default-bg:#fff;
+$text-muted:#666666;
+</css_variables>
+        <dark_theme/>
+        <default>false</default>
+        <enable_ais>false</enable_ais>
+        <enable_favorites>false</enable_favorites>
+        <hide_portal_name>false</hide_portal_name>
+        <homepage display_value="inv_index">476805d5474731107a5ef3f2e16d43b8</homepage>
+        <icon>601c755d470b31107a5ef3f2e16d43f0</icon>
+        <kb_knowledge_base/>
+        <kb_knowledge_page/>
+        <login_page/>
+        <logo>e2ab791d470b31107a5ef3f2e16d43f8</logo>
+        <notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page>
+        <quick_start_config/>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <search_application/>
+        <search_results_configuration/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu display_value="Menu inventario">8c9d415d474731107a5ef3f2e16d43d3</sp_rectangle_menu>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 11:53:09</sys_created_on>
+        <sys_id>44eaa0dd478331107a5ef3f2e16d43f1</sys_id>
+        <sys_mod_count>111</sys_mod_count>
+        <sys_name>inventários</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1275866_gest_o_0">a1012545470331107a5ef3f2e16d43c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">a1012545470331107a5ef3f2e16d43c8</sys_scope>
+        <sys_update_name>sp_portal_44eaa0dd478331107a5ef3f2e16d43f1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 17:39:23</sys_updated_on>
+        <theme display_value="La Jolla">a7a6e78277002300a6e592718a10617a</theme>
+        <title>inventários</title>
+        <ts_index_group/>
+        <url_suffix>inventario</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="delete_multiple" query="documentkey=44eaa0dd478331107a5ef3f2e16d43f1"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#41be58</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>icon</file_name>
+        <hash>17fc8ca9fc102dcdd2c465df49bd08c15ebe61be6516d22756d09de0e24a7ff7</hash>
+        <image_height>50</image_height>
+        <image_width>50</image_width>
+        <size_bytes>293</size_bytes>
+        <size_compressed>296</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 17:39:23</sys_created_on>
+        <sys_id>601c755d470b31107a5ef3f2e16d43f0</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 17:39:23</sys_updated_on>
+        <table_name>ZZ_YYsp_portal</table_name>
+        <table_sys_id>44eaa0dd478331107a5ef3f2e16d43f1</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="icon" sys_id="601c755d470b31107a5ef3f2e16d43f0">601c755d470b31107a5ef3f2e16d43f0</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 17:39:23</sys_created_on>
+        <sys_id>a01c755d470b31107a5ef3f2e16d43f0</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>6wzwc+flkuJiYGDg9fRwCQLSRiDMwQYk5ew7NgIpzgKPyGIGBm5hEGZkmDVHAih43dPFMaRiztsZjnxNBgKuuz8FHLtw3u+O8Ve3Vyuj3j/gVKng9XWO4ZRmTnX7771LK/P3Jy7uOcotf8RLJzFPKvF4mJnsEb70Qk3HjUkchzuK5AUl1eYKGpTGda1hiXCRTBBMbXCdwigWyIbJyXZNyNkxX7zQrcFVsGdOr9KtA1+u/pq4/2Mol++8DSoPHxfGm32ffn4tm+u1RXu3SssfZg2UK75bKb/0e+C5yrdJSpWHn8alWE4Vefl52VfTnOfRm+/uPb0jSOdvZqmIYssOzrgW1u7++68Wngd6kcHT1c9lnVNCEwAZIQm+JQEAAA==</data>
+        <length>384</length>
+        <position>1</position>
+        <sys_attachment display_value="icon" sys_id="601c755d470b31107a5ef3f2e16d43f0">601c755d470b31107a5ef3f2e16d43f0</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 17:39:23</sys_created_on>
+        <sys_id>341c755d470b31107a5ef3f2e16d43f0</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#ffffff</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>logo</file_name>
+        <hash>348e616a8ecbcef1fcfcdf29a31461e0da0d251df56b9b8e22b2c812f9054c1d</hash>
+        <image_height>64</image_height>
+        <image_width>64</image_width>
+        <size_bytes>1342</size_bytes>
+        <size_compressed>1365</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 17:37:36</sys_created_on>
+        <sys_id>e2ab791d470b31107a5ef3f2e16d43f8</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 17:37:37</sys_updated_on>
+        <table_name>ZZ_YYsp_portal</table_name>
+        <table_sys_id>44eaa0dd478331107a5ef3f2e16d43f1</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="logo" sys_id="e2ab791d470b31107a5ef3f2e16d43f8">e2ab791d470b31107a5ef3f2e16d43f8</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 17:37:36</sys_created_on>
+        <sys_id>26ab791d470b31107a5ef3f2e16d43f8</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>AT4FwfqJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAJcEhZcwAACxMAAAsTAQCanBgAAATwSURBVHic7ZtriFVVFMePk6FZVpoVlSRYEQU9KGWygZTQyg8xZaMfeghN0etDloZCOJDlh+lFxJQ1QURBRUYhFkb0hPxQImREYpgkFPSYxhgqybR+sbv/nWs2R+8555575pyZ+4cNd9299jpn/e85e++19rpR1EILsQAuAe4HeivenA/taRyfCLzO6MNrzrckBDxrBv0N7Kl4cz54PFPP+ZOAA1J+H5gaVRzACcAH8sn5duLhlK8wbF2q9jmwq6LN3fscoMP4teBwBHQaxbOB56g++uWLR2caAp7X519lqErN3TPyoWECdkQVg7vnFgFlfQKAc4DtwFOSbwF+zHn5O1BmAm6V3UHJb9E8lJKAicB9wGWSzwQeynkLPFhaAopAaxKkpKsAMB5Ypkf01bzsVoIAaiG22556/BT0Hw88CrwCHDdqCACmalttI7MvgNnqHwfcpKXQY1HlCaDm2M3Az8bub8By9ypI51zgI4bjTWBSpQmgNt6F1BZuvT9d/UcBDwB/mv7vgK5GHB9xAoBJcmyfsfUNsNDoXA18a/r/Ap4EjsnB95EjgJpjuwPHen0qCjgtJt32sXsN8nJ8RAgAzgA2BY69C5xldO4F/jD9PwDX5+x3sQQAE4AeYK8Z9z2wJNA71fS7IKUv6zLnXhPgRuC2Os2vKJt1j/kSACwAvjb6+4EngMkxum3AC3pKLsriuLG1jsbQGAHAKcBLgdGtfk1vNoANI0IAB7ewQ0bnF4W2bUU4HxDwKTAlYZvdKAEDwRb2H/VNK8rxGAI2pxjT8CQYYiOwaoTaV2UgoAwohIBO4HfGKgFRCVHoHBA1EVpV+nUYO34sEnC+udZ5ZSHgcqM4P2oitDtcq2zwuDwIcLEHMM9llrIScKwJWL7UyeqUkrVNIQF6nVwazcNt1q5LTYADsJpqwBJwT0y/yzydnIWANmBNkNAoOwFv67vtihQ9rk1NgIerpHAGgBfN4OUJwlDbXCiKQtM048Jw1n6/LYYAF2mi19df06EjMwEeQLcZnGrv32BO8f+ERr1JELgw5on9xAdpeRJwMTAzaJMPcfbn+tZr3K6YcfWaG4NszDRptdhVQBHfG8BnwCP2vvIkIA6DtvAIOCJIlOSFHZqfmrcPiIPW1XroMPpHKnzOGwOyXSwBDsAsYHHQVscRIP3pbh2OGZO1OVvTZbu5BFC7YJK43Obm1hWQB5gTELA7xdjHEhHA8Hq6smGvJtfCcoJlxLRCk6JRCRDuQ0ZNOFwJAoAune2tUH+P5IXADFOQNEPfuc890l0huUvbaq/rjsPnelm6d0peChxtdGclIUBFVmuDIqll5gg+n6MxDq7vDwcTZoe+cxiodzYHrPSCdP3+fYOc9OhOSMChyuyuaZSAPhUdblH/Tsnu+LvdFCW26zv3ead0t0ju0y/kdd2TcreXpfuO5JdV3u51b0hIQLcOW22h5Dazd2jNAWR8AnoVlLyn/q2SVykwylLDP19h7X+y7K6X3K+sj9ddnPAJWKJcgL3Oh+4PIEXNAWnQjDkgrE0YVmjVCAFL9as8qP7HJS9SUUSWOv4LgCu9LLsrJd+l83+v25GQAGfz6eA6Lqs1oTUHRK1JMMr6CgyV4C9ve4K6IvsK7E9hYygpAfMoL/apBM8mabNgbr3KzjtK8HfXuHaVKbVbk9HG7WlOoVqIxgD+BYJQHTFB1SOVAAAAAElFTkSuQmCCuE9VmD4FAAA=</data>
+        <length>1808</length>
+        <position>1</position>
+        <sys_attachment display_value="logo" sys_id="e2ab791d470b31107a5ef3f2e16d43f8">e2ab791d470b31107a5ef3f2e16d43f8</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 17:37:36</sys_created_on>
+        <sys_id>a6ab791d470b31107a5ef3f2e16d43f8</sys_id>
+    </sys_attachment_doc>
+</record_update>
