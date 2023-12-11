@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
     <sp_portal action="INSERT_OR_UPDATE">
-        <css_variables>$brand-primary:#1F8476;
+        <css_variables>$brand-primary:#292e2e;
 $body-bg:#ffffff;
 $state-success-text:#1e4335;
 $sp-homepage-bg:#fff;
@@ -9,15 +9,15 @@ $text-color:#2e2e2e;
 $sp-logo-margin-y:.6rem;
 $navbar-inverse-link-hover-color:#ffffff;
 $panel-bg:#fff;
-$brand-success:#36d7bd;
+$brand-success:#c8f5ee;
 $navbar-inverse-bg:#808080;
 $brand-warning:#DFD139;
 $brand-danger:#C83C36;
 $sp-tagline-color:#ffffff;
 $navbar-inverse-link-color:#f6fafb;
 $brand-info:#6ABECF;
-$link-color:#1F8476;
-$sp-logo-margin-x:11px;
+$link-color:#000000;
+$sp-logo-margin-x:8px;
 $btn-default-bg:#fff;
 $text-muted:#666666;
 </css_variables>
@@ -45,14 +45,14 @@ $text-muted:#666666;
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-10 11:53:09</sys_created_on>
         <sys_id>44eaa0dd478331107a5ef3f2e16d43f1</sys_id>
-        <sys_mod_count>111</sys_mod_count>
+        <sys_mod_count>120</sys_mod_count>
         <sys_name>inventários</sys_name>
         <sys_package display_value="Gestão de Inventário" source="x_1275866_gest_o_0">a1012545470331107a5ef3f2e16d43c8</sys_package>
         <sys_policy/>
         <sys_scope display_value="Gestão de Inventário">a1012545470331107a5ef3f2e16d43c8</sys_scope>
         <sys_update_name>sp_portal_44eaa0dd478331107a5ef3f2e16d43f1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-10 17:39:23</sys_updated_on>
+        <sys_updated_on>2023-12-10 20:46:16</sys_updated_on>
         <theme display_value="La Jolla">a7a6e78277002300a6e592718a10617a</theme>
         <title>inventários</title>
         <ts_index_group/>

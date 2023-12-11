@@ -11,27 +11,27 @@
         <kb_topic/>
         <order>1</order>
         <roles/>
-        <sc_cat_item/>
+        <sc_cat_item display_value="Novo pedido">b302d2d1478b31107a5ef3f2e16d43e0</sc_cat_item>
         <sc_category/>
         <short_description>Navegue no catálogo pelos serviços e itens que você precisa</short_description>
         <size>md</size>
         <sp_column display_value="2">0555295547c731107a5ef3f2e16d4305</sp_column>
-        <sp_page display_value="list">b574e51147132100ba13a5554ee4903e</sp_page>
+        <sp_page display_value="sc_cat_item">9f12251147132100ba13a5554ee490f4</sp_page>
         <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
         <sys_class_name>sp_instance_link</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-10 16:01:05</sys_created_on>
         <sys_id>3895695547c731107a5ef3f2e16d438d</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>17</sys_mod_count>
         <sys_name>Solicitar equipamentos de TI</sys_name>
         <sys_package display_value="Gestão de Inventário" source="x_1275866_gest_o_0">a1012545470331107a5ef3f2e16d43c8</sys_package>
         <sys_policy/>
         <sys_scope display_value="Gestão de Inventário">a1012545470331107a5ef3f2e16d43c8</sys_scope>
         <sys_update_name>sp_instance_link_3895695547c731107a5ef3f2e16d438d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-10 17:01:41</sys_updated_on>
+        <sys_updated_on>2023-12-10 20:22:13</sys_updated_on>
         <title>Solicitar equipamentos de TI</title>
-        <type>url</type>
+        <type>sc_cat_item</type>
         <url>https://dev224861.service-now.com/inventario?id=form&amp;is_new_order=true&amp;table=x_1275866_gest_o_0_pedidos&amp;sys_id=-1</url>
         <widget_parameters><![CDATA[{
 	"link_template": {

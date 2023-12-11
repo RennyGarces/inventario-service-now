@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_ais">
+    <sp_instance_ais action="DELETE">
+        <active>true</active>
+        <ai_search_source_filter/>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <disable_all_suggestions>false</disable_all_suggestions>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <placeholder/>
+        <roles/>
+        <search_application/>
+        <search_results_configuration/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">7b8952d9478b31107a5ef3f2e16d43ae</sp_column>
+        <sp_widget display_value="Homepage Search">200fbd96cb20020000f8d856634c9ca1</sp_widget>
+        <spell_check_font_size>xl</spell_check_font_size>
+        <sys_class_name>sp_instance_ais</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 19:49:17</sys_created_on>
+        <sys_id>2fc996d9478b31107a5ef3f2e16d437c</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Gestão de Inventário" source="x_1275866_gest_o_0">a1012545470331107a5ef3f2e16d43c8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">a1012545470331107a5ef3f2e16d43c8</sys_scope>
+        <sys_update_name>sp_instance_ais_2fc996d9478b31107a5ef3f2e16d437c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 19:53:04</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"typeahead_search": {
+		"value": "{title:\"Como posso te ajudar\",size:\"md\", color:\"gray\"}",
+		"displayValue": "{title:\"Como posso te ajudar\",size:\"md\", color:\"gray\"}"
+	}
+}]]></widget_parameters>
+    </sp_instance_ais>
+    <sys_translated_text action="DELETE" query="documentkey=2fc996d9478b31107a5ef3f2e16d437c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">a1012545470331107a5ef3f2e16d43c8</application>
+        <file_path/>
+        <instance_id>44b3f0e01bb2355052a243f4bd4bcbce</instance_id>
+        <instance_name>dev224861</instance_name>
+        <name>sp_instance_ais_2fc996d9478b31107a5ef3f2e16d437c</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_ais"&gt;&lt;sp_instance_ais action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;ai_search_source_filter/&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;disable_all_suggestions&gt;false&lt;/disable_all_suggestions&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;placeholder/&gt;&lt;roles/&gt;&lt;search_application/&gt;&lt;search_results_configuration/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;7b8952d9478b31107a5ef3f2e16d43ae&lt;/sp_column&gt;&lt;sp_widget display_value="Homepage Search"&gt;200fbd96cb20020000f8d856634c9ca1&lt;/sp_widget&gt;&lt;spell_check_font_size&gt;xl&lt;/spell_check_font_size&gt;&lt;sys_class_name&gt;sp_instance_ais&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-12-10 19:49:17&lt;/sys_created_on&gt;&lt;sys_id&gt;2fc996d9478b31107a5ef3f2e16d437c&lt;/sys_id&gt;&lt;sys_mod_count&gt;7&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Gestão de Inventário" source="x_1275866_gest_o_0"&gt;a1012545470331107a5ef3f2e16d43c8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Gestão de Inventário"&gt;a1012545470331107a5ef3f2e16d43c8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_ais_2fc996d9478b31107a5ef3f2e16d437c&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-12-10 19:53:04&lt;/sys_updated_on&gt;&lt;title/&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"typeahead_search": {
+		"value": "{title:\"Como posso te ajudar\",size:\"md\", color:\"gray\"}",
+		"displayValue": "{title:\"Como posso te ajudar\",size:\"md\", color:\"gray\"}"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_ais&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=2fc996d9478b31107a5ef3f2e16d437c"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1913467332</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>0ebecec547c331107a5ef3f2e16d4351</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 19:53:04</sys_created_on>
+        <sys_id>3eaa961d478b31107a5ef3f2e16d436c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c554a554d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 19:53:04</sys_updated_on>
+        <type>Instance with Search</type>
+        <update_guid>f2aa961d3f8b311035f45c1742c8376c</update_guid>
+        <update_guid_history>f2aa961d3f8b311035f45c1742c8376c:-1913467332,c1aa921d658b3110618a32eed0bc9c73:-530248858,219a16d94f8b3110679cfa78b5373cfd:-1913467332,1b5ade99d78b311080534461abf02946:-1955897190,914a1ad9378b31106a15a78ee7bd5f69:-633938342,cb1a1ad92d8b311076c135951b8c4264:-1273429680,1e0a96d9c28b31109493355ebee3ad3f:1031131209,efc996d9d78b31101f76af378f32107d:-904464363</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">2dbad61d478b31107a5ef3f2e16d4386</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 19:53:15</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_ais">sp_instance_ais</sys_db_object>
+        <sys_id>4268d2f09a434c36a3345849add1a984</sys_id>
+        <sys_metadata>2fc996d9478b31107a5ef3f2e16d437c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Gestão de Inventário" source="x_1275866_gest_o_0">a1012545470331107a5ef3f2e16d43c8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">a1012545470331107a5ef3f2e16d43c8</sys_scope>
+        <sys_scope_delete display_value="">394b6140dacf449f8fa9e9a34db129d1</sys_scope_delete>
+        <sys_update_name>sp_instance_ais_2fc996d9478b31107a5ef3f2e16d437c</sys_update_name>
+        <sys_update_version display_value="sp_instance_ais_2fc996d9478b31107a5ef3f2e16d437c">3eaa961d478b31107a5ef3f2e16d436c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 19:53:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
